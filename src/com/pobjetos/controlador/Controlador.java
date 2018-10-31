@@ -6,7 +6,7 @@ package com.pobjetos.controlador;
  */
 public class Controlador {
     public static void main(String[] args) {
-        System.out.println("rama1");
+        System.out.println("rama2");
     }
 
 }
