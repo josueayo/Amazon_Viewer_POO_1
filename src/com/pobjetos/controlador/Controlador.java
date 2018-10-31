@@ -5,5 +5,8 @@ package com.pobjetos.controlador;
  * @author SSolis
  */
 public class Controlador {
+    public static void main(String[] args) {
+        System.out.println("rama1");
+    }
 
 }
